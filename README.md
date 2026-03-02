@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Max Kang 👋
 
-<!--
-**kanghuizhen/kanghuizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Also known as Huizhen Kang.
 
-Here are some ideas to get you started:
+Full-stack developer based in Canada.  
+Background in C# and .NET, currently studying Web Development at NAIT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages**
+- C#
+- JavaScript
+- PHP
+- SQL
+
+**Frameworks & Libraries**
+- .NET
+- Vue.js
+- Tailwind CSS
+- Bootstrap
+
+**Databases**
+- SQL Server
+- MySQL
+
+## 🌐 Website
+https://max-kang.com
