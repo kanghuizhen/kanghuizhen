@@ -1,4 +1,4 @@
-# Hi, I'm Max Kang 👋
+# Hi, I'm Max(Huizhen) Kang 👋
 
 Also known as Huizhen Kang.
 
